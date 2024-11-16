@@ -1,5 +1,8 @@
 # project-02-website-portfolio 
 
+## 2024.11.15
+- Started updating all the projects from the past to present.
+
 ## 2024.07.06
 - Project started
 - File setup completed
